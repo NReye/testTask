@@ -1,0 +1,24 @@
+body
+{
+	background-color: #e5e5e5;
+}
+
+.pad-top
+{
+padding-top: 300px;
+}
+
+.er-pad-top
+{
+	padding-top: 100px;
+}
+.data-pad
+{
+padding-top: 200px;
+}
+
+h3
+{
+	text-align: center;
+	padding-bottom: 20px;
+}
